@@ -1,0 +1,39 @@
+• Geral
+<defName>NameTestExample</defName>  ·Nome do objeto
+<label>name test</label>  ·Nome que aparece no jogo
+<description>This is a description.</description>  ·Descrição do objeto
+
+<NameTestExample.label>nome teste</NameTestExample.label> ·tradução do nome do objeto
+<NameTestExample.description>Esta é uma descrição.</NameTestExample.description> ·tradução da descrição do objeto
+
+• JobDef
+<defName>Clean</defName>  ·Nome do objeto
+<reportString>cleaning TargetA.</reportString>  ·Trabalho
+
+<Clean.reportString>limpando TargetA.</Clean.reportString>  ·Tradução do trabalho
+
+• WorkGiverDef
+<defName>Deconstruct</defName> ·Nome do objeto
+<verb>deconstruct</verb> ·Nome da ação
+<gerund>deconstructing</gerund> ·O que aparece quando você faz a ação
+
+<Deconstruct.verb>desconstruir</Deconstruct.verb>
+<Deconstruct.gerund>desconstruindo</Deconstruct.gerund>
+
+• No final quando terminar a tradução, substitua as acentuações por esse símbolos (Exemplo "refeições" ficaria "refeiÃ§Ãµes", ç fica Ã§, õ fica Ãµ...) :
+
+ã Ã£
+õ Ãµ
+á Ã¡
+ç Ã§
+é Ã©
+ú Ãº
+í  &#237;
+à &#224;
+ó Ã³
+ô Ã´
+â Ã¢
+ê Ãª
+É Ã‰
+À Ã€
+Ó &#211;
