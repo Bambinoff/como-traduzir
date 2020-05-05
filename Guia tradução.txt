@@ -1,39 +1,39 @@
-• Geral
-<defName>NameTestExample</defName>  ·Nome do objeto
-<label>name test</label>  ·Nome que aparece no jogo
-<description>This is a description.</description>  ·Descrição do objeto
+â€¢ Geral
+<defName>NameTestExample</defName>  Â·Nome do objeto
+<label>name test</label>  Â·Nome que aparece no jogo
+<description>This is a description.</description>  Â·DescriÃ§Ã£o do objeto
 
-<NameTestExample.label>nome teste</NameTestExample.label> ·tradução do nome do objeto
-<NameTestExample.description>Esta é uma descrição.</NameTestExample.description> ·tradução da descrição do objeto
+<NameTestExample.label>nome teste</NameTestExample.label> Â·traduÃ§Ã£o do nome do objeto
+<NameTestExample.description>Esta Ã© uma descriÃ§Ã£o.</NameTestExample.description> Â·traduÃ§Ã£o da descriÃ§Ã£o do objeto
 
-• JobDef
-<defName>Clean</defName>  ·Nome do objeto
-<reportString>cleaning TargetA.</reportString>  ·Trabalho
+â€¢ JobDef
+<defName>Clean</defName>  Â·Nome do objeto
+<reportString>cleaning TargetA.</reportString>  Â·Trabalho
 
-<Clean.reportString>limpando TargetA.</Clean.reportString>  ·Tradução do trabalho
+<Clean.reportString>limpando TargetA.</Clean.reportString>  Â·TraduÃ§Ã£o do trabalho
 
-• WorkGiverDef
-<defName>Deconstruct</defName> ·Nome do objeto
-<verb>deconstruct</verb> ·Nome da ação
-<gerund>deconstructing</gerund> ·O que aparece quando você faz a ação
+â€¢ WorkGiverDef
+<defName>Deconstruct</defName> Â·Nome do objeto
+<verb>deconstruct</verb> Â·Nome da aÃ§Ã£o
+<gerund>deconstructing</gerund> Â·O que aparece quando vocÃª faz a aÃ§Ã£o
 
 <Deconstruct.verb>desconstruir</Deconstruct.verb>
 <Deconstruct.gerund>desconstruindo</Deconstruct.gerund>
 
-• No final quando terminar a tradução, substitua as acentuações por esse símbolos (Exemplo "refeições" ficaria "refeiÃ§Ãµes", ç fica Ã§, õ fica Ãµ...) :
+â€¢ No final quando terminar a traduÃ§Ã£o, substitua as acentuaÃ§Ãµes por esse sÃ­mbolos (Exemplo "refeiÃ§Ãµes" ficaria "refeiÃƒÂ§ÃƒÂµes", Ã§ fica ÃƒÂ§, Ãµ fica ÃƒÂµ...) :
 
-ã Ã£
-õ Ãµ
-á Ã¡
-ç Ã§
-é Ã©
-ú Ãº
-í  &#237;
-à &#224;
-ó Ã³
-ô Ã´
-â Ã¢
-ê Ãª
-É Ã‰
-À Ã€
-Ó &#211;
+Ã£ ÃƒÂ£
+Ãµ ÃƒÂµ
+Ã¡ ÃƒÂ¡
+Ã§ ÃƒÂ§
+Ã© ÃƒÂ©
+Ãº ÃƒÂº
+Ã­ &#237;
+Ã  &#224;
+Ã³ ÃƒÂ³
+Ã´ ÃƒÂ´
+Ã¢ ÃƒÂ¢
+Ãª ÃƒÂª
+Ã‰ Ãƒâ€°
+Ã€ Ãƒâ‚¬
+Ã“ &#211;
