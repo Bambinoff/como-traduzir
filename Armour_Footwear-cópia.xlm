@@ -1,23 +1,9 @@
-*Arquivo original
 <?xml version="1.0" encoding="utf-8"?>
+
 <LanguageData>
 
   <!-- +++++ Plate Boots +++++ -->
 
-  <VAE_Footwear_PlateBoots.label>plate boots</VAE_Footwear_PlateBoots.label>
-  <VAE_Footwear_PlateBoots.description>A pair of simple plate boots. Due to their weight, they slow down the wearer.</VAE_Footwear_PlateBoots.description>
-
-
-  <!-- +++++ Marine Boots +++++ -->
-
-  <VAE_Footwear_MarineBoots.label>marine boots</VAE_Footwear_MarineBoots.label>
-  <VAE_Footwear_MarineBoots.description>A pair of marine boots with layered plasteel plates and enhanced servomotors.</VAE_Footwear_MarineBoots.description>
-
-                                                   *Tradução da descrição
-</LanguageData>
-
-  <!-- +++++ Plate Boots +++++ -->
-
   <VAE_Footwear_PlateBoots.label>botas de placas</VAE_Footwear_PlateBoots.label>
   <VAE_Footwear_PlateBoots.description>Um par de simples botas de placas. Por causa de seu peso, elas diminuem a velocidade de quem as usa.</VAE_Footwear_PlateBoots.description>
 
@@ -25,24 +11,8 @@
   <!-- +++++ Marine Boots +++++ -->
 
   <VAE_Footwear_MarineBoots.label>botas mar&#237;timas</VAE_Footwear_MarineBoots.label>
-  <VAE_Footwear_MarineBoots.description>Um par de botas mar&#237;timas com placas plasteel em camadas e servomotores aprimorados.</VAE_Footwear_MarineBoots.description>
-
-                                    *Tradução da descrição e dos itens que estâo entre os "<>"
+  <VAE_Footwear_MarineBoots.description>Um par de botas mar&#237;timas com placas de plastiaço em camadas e servomotores aprimorados.</VAE_Footwear_MarineBoots.description>
 
 </LanguageData>
 
-  <!-- +++++ Plate Boots +++++ -->
 
-  <VAE_Footwear_PlateBoots.label>botas de placas</VAE_Footwear_PlateBoots.label>
-  <VAE_Footwear_PlateBoots.description>Um par de simples botas de placas. Por causa de seu peso, elas diminuem a velocidade de quem as usa.</VAE_Footwear_PlateBoots.description>
-
-<Plate Boots.label>Botas de Placas</Plate Boots.label>
-<Plate Boots.description>Um par de simples botas de placas. Por causa de seu peso, elas diminuem a velocidade de quem as usa.</Plate Boots.description>
-
-  <!-- +++++ Marine Boots +++++ -->
-
-  <VAE_Footwear_MarineBoots.label>botas mar&#237;timas</VAE_Footwear_MarineBoots.label>
-  <VAE_Footwear_MarineBoots.description>Um par de botas mar&#237;timas com placas plasteel em camadas e servomotores aprimorados.</VAE_Footwear_MarineBoots.description>
-
-<Marine Boots.label>Botas mar&#237;timas</Marine Boots.label>
-<Marine Boots.description>Um par de botas mar&#237;timas com placas plasteel em camadas e servomotores aprimorados.</Marine Boots.description>
